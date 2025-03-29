@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Docker
+*.log
+*.env
+
+# IDEs
+.idea/
+.vscode/
+
+# Build artifacts
+build/
+dist/

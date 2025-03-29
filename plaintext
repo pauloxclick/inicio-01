@@ -1,0 +1,17 @@
+meu-projeto/
+├── api/
+│   ├── Dockerfile
+│   ├── app.py  # Exemplo de API Flask
+│   ├── requirements.txt
+├── landing-page/
+│   ├── Dockerfile
+│   ├── index.html
+│   ├── styles.css
+├── db/
+│   ├── docker-compose.yml  # Para rodar localmente com PostgreSQL
+│   ├── init.sql
+├── nomad/
+│   ├── api.nomad.hcl
+│   ├── landing.nomad.hcl
+│   ├── db.nomad.hcl
+└── docker-compose.yml
